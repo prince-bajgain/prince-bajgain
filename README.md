@@ -1,4 +1,4 @@
-[![Profile Image](https://raw.githubusercontent.com/prince-bajgain/prince-bajgain/main/profile.gif)](https://princebajgain.com.np/)
+[![Profile Image](https://raw.githubusercontent.com/prince-bajgain/prince-bajgain/main/prince_banner.png)](https://princebajgain.com.np/)
 
 ## 🚀 About Me
 
