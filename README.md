@@ -1,11 +1,14 @@
-[![Profile Image](https://raw.githubusercontent.com/sagar-tandan/sagar-tandan/main/profile.gif)](https://sagar3.com.np/)
+[![Profile Image](https://raw.githubusercontent.com/prince-bajgain/prince-bajgain/main/profile.gif)](https://princebajgain.com.np/)
 
 ## 🚀 About Me
-As a computer engineer, I thrive on pushing the boundaries of what's possible with technology. 
-My passion lies in crafting innovative solutions and continuously exploring emerging tech trends.
-- 🌱 Currently learning: JavaScript, React.js, Node.js, and .NET
-- 💼 Check out my: [Portfolio](https://sagar3.com.np/)
-- 📫 Reach me: [sagarchhetry333@gmail.com](mailto:sagarchhetry333@gmail.com)
+
+I am a passionate **MERN Stack Developer** focused on building fast, scalable, and user-friendly web applications. I specialize in **MongoDB, Express.js, React.js, and Node.js**, turning ideas into clean, efficient, and production-ready solutions.
+
+- 💻 Full-Stack Web Developer (MERN)
+- 🚀 Building real-world projects & scalable applications
+- 🌱 Continuously learning & improving every day
+- 💼 Portfolio: https://princebajgain.com.np/
+- 📫 Email: prnncebajgain@gmail.com
 
 ## 💻 Skills & Expertise
 <p align="left">
