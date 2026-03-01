@@ -9,7 +9,7 @@ I am a passionate **MERN Stack Developer** focused on building fast, scalable, a
 - 🌱 Continuously learning & improving every day
 - 💼 Portfolio: https://princebajgain.com.np/
 - 📫 Email: prnncebajgain@gmail.com
-
+  
 ## 💻 Skills & Expertise
 
 <p align="left">
@@ -26,6 +26,10 @@ I am a passionate **MERN Stack Developer** focused on building fast, scalable, a
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 
   <!-- Tools & Other -->
   <img src="https://img.shields.io/badge/SEO-Optimization-blue?style=for-the-badge&logo=google&logoColor=white" alt="SEO Optimization" />
