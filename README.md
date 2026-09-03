@@ -9,7 +9,6 @@ I am a passionate **MERN Stack Developer** focused on building fast, scalable, a
 - 🌱 Continuously learning & improving every day
 - 💼 Portfolio: https://princebajgain.com.np/
 - 📫 Email: prnncebajgain@gmail.com
-<img src="https://komarev.com/ghpvc/?username=prince-bajgain&label=Profile%20views&color=0e75b6&style=flat" />
   
 ## 💻 Skills & Expertise
 
